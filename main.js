@@ -16,16 +16,16 @@ function nombrePair() {
 }
 nombrePair();
  */
-/* 
-// 3 - Créez une fonction qui génère un nombre entre 0 et 1 dans la console.
+
+/* // 3 - Créez une fonction qui génère un nombre entre 0 et 1 dans la console.
 function nombreAleatoire() {
   const nombre = Math.random(); // code manquant : il faut appeler la fonction Math.random()
   console.log(nombre);
   return nombre;
   
 }
-const nombre = nombreAleatoire();
- */
+const nombre = nombreAleatoire();/* 
+   */
 
 /* // 4 - Trouvez comment arrondir ce nombre et affichez le.
 function arrondirNombre(nombre) {
@@ -33,8 +33,8 @@ function arrondirNombre(nombre) {
   console.log(arrondi);
 }
 
-arrondirNombre(nombre);
- */
+arrondirNombre(nombre); */
+
 
 /* // 5 - Générez un nombre entre 0 et 1000, demandez un chiffre à l'utilisateur et affichez dans la console si votre nombre est divisible par le chiffre de l'utilisateur.
 const nombre5 = Math.floor(Math.random() * 1000); // code manquant : il faut utiliser la fonction Math.floor() pour obtenir un nombre entier
